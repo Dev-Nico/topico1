@@ -1,4 +1,4 @@
-# topico1
+# Topico1
 El proyecto del curso consiste en la aplicación de los conceptos vistos durante el
 curso Ciencia de Datos en diversos tópicos, principalmente los algoritmos de
 hallazgo de patrones frecuentes. Específicamente la tarea es:
