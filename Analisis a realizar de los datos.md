@@ -12,7 +12,7 @@
 - en eval_set quitar test
 - days since prior order, hay celdas vacias, llenar con el valor mas probable
 
-	relaciones de tablas de db
+#	relaciones de tablas de db
 
 - diego
 
