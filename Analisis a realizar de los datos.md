@@ -14,4 +14,6 @@
 
 * ver si hay filas repetidas
 
+#	Datos
 
+*hay 49687 tipos de productos
