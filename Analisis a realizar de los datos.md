@@ -2,7 +2,7 @@
 
 ##	order_products_train
 
-* productos que no se compran
+* productos que no se compran (listo)
 * 20 productos mas demandados (listo)
 * grafico productos vs cantidad de producto llevado (listo)
 * productos que han sido comprados anteriormente
