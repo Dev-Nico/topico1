@@ -58,9 +58,9 @@ numeroTotalProductosQueNoSeHanVendido = 10566
 
 24852        1                         4605
 13176        1                         3889
-24852        2                         3199
-13176        2                         2867
-24852        3                         2255
+27845        1                         1144
+47766        1                          995
+21137        1                          900
 
 
 #	Preprocesamiento de datos
