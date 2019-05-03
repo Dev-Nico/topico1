@@ -6,7 +6,7 @@
 * 20 productos mas demandados (listo)
 * grafico productos vs cantidad de producto llevado (listo)
 * cantidad de productos que han sido comprados anteriormente (listo)
-* 10 productos que mas se lleva por primera vez (listo)
+* 10 productos que mas se vuelven a pedir (listo)
 * producto que mas se agrega por primera vez al carro
 
 
